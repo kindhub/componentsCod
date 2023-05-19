@@ -67,8 +67,7 @@ require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/modules/main/include/prolog_before.
             <div class="row align-items-start">
                 <div class="col">
                     <legend>Основная информация</legend>
-
-
+                    
                     <label for="iinBin" class="form-label">БИН/ИИН</label>
                     <input
                         id="iinBin"
